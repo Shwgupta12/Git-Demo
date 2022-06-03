@@ -1,0 +1,16 @@
+C:\Git Practise\git branch\Git Demo\Git Demo\bin\Debug\net5.0\Git Demo.exe
+C:\Git Practise\git branch\Git Demo\Git Demo\bin\Debug\net5.0\Git Demo.deps.json
+C:\Git Practise\git branch\Git Demo\Git Demo\bin\Debug\net5.0\Git Demo.runtimeconfig.json
+C:\Git Practise\git branch\Git Demo\Git Demo\bin\Debug\net5.0\Git Demo.runtimeconfig.dev.json
+C:\Git Practise\git branch\Git Demo\Git Demo\bin\Debug\net5.0\Git Demo.dll
+C:\Git Practise\git branch\Git Demo\Git Demo\bin\Debug\net5.0\Git Demo.pdb
+C:\Git Practise\git branch\Git Demo\Git Demo\obj\Debug\net5.0\Git Demo.csproj.AssemblyReference.cache
+C:\Git Practise\git branch\Git Demo\Git Demo\obj\Debug\net5.0\Git Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Practise\git branch\Git Demo\Git Demo\obj\Debug\net5.0\Git Demo.AssemblyInfoInputs.cache
+C:\Git Practise\git branch\Git Demo\Git Demo\obj\Debug\net5.0\Git Demo.AssemblyInfo.cs
+C:\Git Practise\git branch\Git Demo\Git Demo\obj\Debug\net5.0\Git Demo.csproj.CoreCompileInputs.cache
+C:\Git Practise\git branch\Git Demo\Git Demo\obj\Debug\net5.0\Git Demo.dll
+C:\Git Practise\git branch\Git Demo\Git Demo\obj\Debug\net5.0\refint\Git Demo.dll
+C:\Git Practise\git branch\Git Demo\Git Demo\obj\Debug\net5.0\Git Demo.pdb
+C:\Git Practise\git branch\Git Demo\Git Demo\obj\Debug\net5.0\Git Demo.genruntimeconfig.cache
+C:\Git Practise\git branch\Git Demo\Git Demo\obj\Debug\net5.0\ref\Git Demo.dll
