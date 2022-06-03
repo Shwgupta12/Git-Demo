@@ -1,0 +1,3 @@
+Git Demo/.vs
+Git Demo/Git Demo/bin
+Git Demo/Git Demo/obj
